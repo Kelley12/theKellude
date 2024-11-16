@@ -1,4 +1,36 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
+defaultContentLanguage = "en"
 title = 'The Kellude'
 theme = 'spectral'
+
+googleAnalytics = "G-B2H5W1LCHG"
+
+[params]
+fancyTitle = "Kellude"
+copyright = "The Kellude"
+description = "The Kellude specializes in software development, <br />data collection, processing, analytics, and architecture.<br /> We deliver innovative solutions to help businesses <br />harness data and make informed decisions."
+body_is_markdown = true
+
+[params.one]
+enable = true
+title = 'Custom Solutions, Tailored for Your Success'
+body = '''
+We create custom software, data management, analytics, and architecture solutions tailored to your unique needs.
+Our goal is to deliver innovative, scalable technology that drives your success.
+'''
+
+[[params.one.icon]]
+icon = "solid fa-code"
+style = "1"
+label = "Code"
+
+[[params.one.icon]]
+icon = "solid fa-cloud"
+style = "2"
+label = "Cloud"
+
+[[params.one.icon]]
+icon = "solid fa-database"
+style = "3"
+label = "Ipsum"
