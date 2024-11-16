@@ -34,3 +34,22 @@ label = "Cloud"
 icon = "solid fa-database"
 style = "3"
 label = "Ipsum"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+img_alt = "blurry background: white/grey"
+title = 'Smarter Data, Better Decisions'
+body = 'Turn your data into actionable insights with our advanced analytics and data management solutions. We help you harness the power of your information to make informed, strategic decisions with confidence.'
+
+[[params.two.section]]
+img = "img/pic02.jpg"
+title = 'Scalable Systems for Growth'
+body = 'We design and build robust software architectures that grow with your business. From start-ups to enterprises, our scalable solutions ensure your technology evolves as your needs expand.'
+
+[[params.two.section]]
+img = "img/pic03.jpg"
+title = 'Seamless Integration,<br /> Effortless Operations'
+body = 'Streamline your workflows with custom integrations that connect your tools and systems. We make your technology work together seamlessly, saving time and improving efficiency.'
