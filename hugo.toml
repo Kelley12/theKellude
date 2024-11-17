@@ -56,10 +56,9 @@ body = 'Streamline your workflows with custom integrations that connect your too
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'Our Services'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+We offer a range of services to help you harness the power of technology and data. From custom software development to advanced analytics, we deliver innovative solutions that drive your success.
 '''
 
 [[params.three.feature]]
