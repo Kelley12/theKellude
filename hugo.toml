@@ -53,3 +53,48 @@ body = 'We design and build robust software architectures that grow with your bu
 img = "img/pic03.jpg"
 title = 'Seamless Integration,<br /> Effortless Operations'
 body = 'Streamline your workflows with custom integrations that connect your tools and systems. We make your technology work together seamlessly, saving time and improving efficiency.'
+
+[params.three]
+enable = true
+title = 'Accumsan mus tortor nunc aliquet'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[[params.three.feature]]
+icon = "solid fa-code"
+title = "Custom Software, Built for You"
+body = "From intuitive apps to complex enterprise systems, we create software solutions designed to streamline your operations and elevate your business."
+
+[[params.three.feature]]
+icon = "solid fa-building-circle-check"
+title = "Robust Data Architecture, Endless Possibilities"
+body = "We design data frameworks that are scalable, efficient, and secure, ensuring your information is always accessible and organized for optimal performance."
+
+[[params.three.feature]]
+icon = "solid fa-chart-simple"
+title = "Analytics That Drive Impact"
+body = "Unlock the value hidden in your data. Our analytics solutions transform raw numbers into meaningful insights that guide smarter decision-making."
+
+[[params.three.feature]]
+icon = "brands fa-cloudflare"
+title = "Cloud Solutions for Modern Businesses"
+body = "Leverage the power of the cloud to improve scalability, reduce costs, and ensure reliable access. Our cloud computing expertise takes your operations to the next level."
+
+[[params.three.feature]]
+icon = "solid fa-gears"
+title = "Smarter Automation, Greater Efficiency"
+body = "Automate repetitive tasks and optimize your workflows with tailored automation solutions, giving your team more time to focus on what matters."
+
+[[params.three.feature]]
+icon = "solid fa-robot"
+title = "Harness the Power of Generative AI"
+body = "Revolutionize creativity and problem-solving with cutting-edge generative AI tools. We integrate AI-driven solutions to innovate and transform your processes."
+
+[params.contact]
+enable = true
+title = "Contact"
+body = "Have a project in mind or a challenge to solve? Reach out today, and let’s discuss how we can help you achieve your goals. Fill out the form below, and we’ll get back to you promptly to explore what we can do for you!"
+subject = "New Kellude Contact Submission!"
+formspree_form_id = "mgvezwpo"
