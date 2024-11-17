@@ -9,7 +9,7 @@ googleAnalytics = "G-B2H5W1LCHG"
 [params]
 fancyTitle = "Kellude"
 copyright = "The Kellude"
-description = "The Kellude specializes in software development, <br />data collection, processing, analytics, and architecture.<br /> We deliver innovative solutions to help businesses <br />harness data and make informed decisions."
+description = "The Kellude specializes in software development, <br />data collection, processing, analytics, and architecture.<br /> We deliver innovative solutions to help businesses <br /> harness data and make informed decisions."
 body_is_markdown = true
 
 [params.one]
